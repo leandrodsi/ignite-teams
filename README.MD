@@ -1,4 +1,4 @@
-# **Ignite Gym**
+# **Ignite Teams**
 
 ![Logo do Aplicativo](md-assets/ignite-teams-banner.jpg)
 
